@@ -154,4 +154,4 @@ MIT — ver [LICENSE](LICENSE).
 
 ## Autor
 
-**Jefferson Paredes** — Ingeniería de Software, Pascual Bravo (2026)
+**Jefferson Paredes - Jhon Deyby HIGUITA - Jorman Santiago** — Ingeniería de Software, Pascual Bravo (2026)
